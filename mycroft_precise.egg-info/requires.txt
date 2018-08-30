@@ -1,0 +1,13 @@
+numpy
+tensorflow==1.8.0
+speechpy-fast>=2.4
+pyaudio
+keras
+h5py
+wavio
+typing
+prettyparse>=0.1.4
+precise-runner
+attrs
+fitipy
+bbopt
